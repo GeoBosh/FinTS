@@ -25,7 +25,7 @@ of `FinTS` from R-forge:
 
     install.packages("FinTS", repos = "http://R-Forge.R-project.org")
 
-To report bugs visit [Rmetrics](https://r-forge.r-project.org/projects/fints/).
+To report bugs visit [FinTS on R-forge](https://r-forge.r-project.org/projects/fints/).
 
 
 # Documentation
