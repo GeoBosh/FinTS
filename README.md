@@ -20,7 +20,7 @@ Install the [latest stable version](https://cran.r-project.org/package=FinTS) of
 
 
 You can install the
-[development version](https://r-forge.r-project.org/scm/viewvc.php/pkg/FinTS/?root=rmetrics)
+[development version](https://r-forge.r-project.org/scm/viewvc.php/pkg/FinTS/?root=fints)
 of `FinTS` from R-forge:
 
     install.packages("FinTS", repos = "http://R-Forge.R-project.org")
